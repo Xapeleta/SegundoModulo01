@@ -1,0 +1,6 @@
+c:\users\tecnico\documents\visual studio 2015\Projects\hospital\hospital\bin\Debug\hospital.exe.config
+c:\users\tecnico\documents\visual studio 2015\Projects\hospital\hospital\bin\Debug\hospital.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\hospital\hospital\bin\Debug\hospital.pdb
+c:\users\tecnico\documents\visual studio 2015\Projects\hospital\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+c:\users\tecnico\documents\visual studio 2015\Projects\hospital\hospital\obj\Debug\hospital.exe
+c:\users\tecnico\documents\visual studio 2015\Projects\hospital\hospital\obj\Debug\hospital.pdb
